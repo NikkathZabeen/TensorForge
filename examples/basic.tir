@@ -1,0 +1,3 @@
+let C = matmul(A, B)
+let D = relu(C + bias)
+let out = softmax(D)

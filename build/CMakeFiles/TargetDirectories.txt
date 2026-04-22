@@ -1,0 +1,14 @@
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/intrinsics_gen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/vt_gen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/omp_gen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/acc_gen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/target_parser_gen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/tensorjit_core.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/tensoriit.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/test_lexer.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/test_parser.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/test_codegen.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/bench_matmul.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/test.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/edit_cache.dir
+C:/Users/sirap/OneDrive/Documents/New project/tensoriit/build/CMakeFiles/rebuild_cache.dir

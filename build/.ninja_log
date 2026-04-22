@@ -1,0 +1,17 @@
+# ninja log v7
+61	789	7984865376460138	CMakeFiles/test_lexer.dir/tests/test_lexer.cpp.obj	49b9fe47ce964caf
+37	880	7984865376220373	CMakeFiles/tensorjit_core.dir/src/lexer.cpp.obj	b415add514c81c72
+66	898	7984865376490072	CMakeFiles/test_parser.dir/tests/test_parser.cpp.obj	ba2a03b366e62b94
+41	1062	7984865376260431	CMakeFiles/tensorjit_core.dir/src/parser.cpp.obj	d45ffb5f87c5c4ab
+48	1717	7984865376325288	CMakeFiles/tensorjit_core.dir/src/optimizer.cpp.obj	22830d98d15d1b50
+70	1863	7984865376547219	CMakeFiles/test_codegen.dir/tests/test_codegen.cpp.obj	34fdfe312f9fb6a8
+58	1916	7984865376416514	CMakeFiles/tensoriit.dir/main.cpp.obj	e82a34a3bbfaa75c
+75	2066	7984865376600099	CMakeFiles/bench_matmul.dir/benchmarks/bench_matmul.cpp.obj	992fbfdbb7d720f1
+51	1574	7984865633694064	CMakeFiles/tensorjit_core.dir/src/codegen.cpp.obj	98baf68cbe2a48eb
+55	3231	7984865633734283	CMakeFiles/tensorjit_core.dir/src/jit.cpp.obj	4a293447ed61bdbc
+3232	3700	7984865665505837	libtensorjit_core.a	7fa579b59254b7a3
+3707	4011	7984865670245339	test_lexer.exe	a79291852c8a9721
+3713	4019	7984865670318098	test_parser.exe	5be263568ab59854
+3701	4463	7984865670189923	tensoriit.exe	e102a5206d014a2e
+3719	6483	7984865670376483	test_codegen.exe	baa14ee346dca66
+3726	6485	7984865670441943	bench_matmul.exe	cfa55dd8a5da9dd7
