@@ -40,7 +40,7 @@ This project has been tested with MSYS2 LLVM 22.1.3, and the CMake file accepts 
 From the **MSYS2 UCRT64** terminal:
 
 ```bash
-cd "/c/Users/sirap/OneDrive/Documents/New project/tensoriit"
+cd "/c/Users/nikkath/OneDrive/Documents/New project/tensoriit"
 rm -rf build
 cmake -S . -B build -G Ninja -DLLVM_DIR=/ucrt64/lib/cmake/llvm
 cmake --build build
